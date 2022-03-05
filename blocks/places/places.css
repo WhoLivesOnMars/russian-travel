@@ -1,0 +1,25 @@
+.places {
+  margin: 0 auto 92px;
+  padding: 0 148px;
+  font-family: Inter, Helvetica, serif, sans-serif;
+}
+
+@media (max-width: 1279px) {
+  .places {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .places {
+    padding: 0 24px;
+    margin: 0 auto 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    padding: 0;
+    margin: 0 auto 16px;
+  }
+}

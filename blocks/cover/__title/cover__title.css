@@ -1,0 +1,33 @@
+.cover__title {
+  max-width: 560px;
+  font-family: Inter, Helvetica, serif, sans-serif;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  margin: 0;
+  padding: 245px auto 32px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+@media (max-width: 1279px) {
+  .cover__title {
+    padding: 195px auto 0;
+  }
+}
+
+@media (max-width: 1024px) {
+  .cover__title {
+    padding: 115px auto 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__title {
+    padding-top: 33px;
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
