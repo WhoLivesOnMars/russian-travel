@@ -7,6 +7,7 @@
   width: 100%;
   min-width: 320px;
   min-height: 100vh;
+  font-family: Inter, Helvetica, serif, sans-serif;
 }
 
 @media (max-width: 767px) {
