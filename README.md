@@ -1,11 +1,25 @@
-# Проект: Путешествие по России
+# Project: Traveling in Russia
 
-------
-Типовой одностраничный сайт, содержащий информацию о неизведанных уголках нашей большой страны и интересных идеях для туризма.
-При разработке сайта были использована флексбокс и адаптивная вёрстка, позиционирование и продвинутая семантика языка HTML. Также проведена работа с шрифтами. 
-[Ссылка на проект](https://wholivesonmars.github.io/russian-travel/index.html)
+- Yandex.Praktikum project.
+- This is a single-page, responsive website with information about interesting travel destinations.
+- It includes text, photos and links to other websites.
 
-*Планы по доработке проекта:*
-1. Подключить к сайту другие шрифты, 
-2. Добавить дополнительное видео о путешествиях и полезные фреймы,
-3. Добавить и задизайнить форму, с помощью которой пользователи смогут уточнять вопросы.
+### Website functionality
+
+- BEM methodology
+- Basic HTML and CSS properties
+- Semantic tags
+- Flexbox layout
+- Element positioning
+- External and internal margins
+- Working with background and images
+- Grid Layout
+- Font optimization
+- Media queries
+
+### Technologies
+
+- HTML
+- CSS
+
+[Website link](https://wholivesonmars.github.io/russian-travel/index.html)
