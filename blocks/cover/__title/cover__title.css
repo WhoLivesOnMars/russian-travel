@@ -1,5 +1,5 @@
 .cover__title {
-  max-width: 560px;
+  max-width: 660px;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
@@ -25,8 +25,8 @@
 @media (max-width: 767px) {
   .cover__title {
     padding-top: 33px;
-    max-width: 288px;
-    font-size: 32px;
-    line-height: 35px;
+    max-width: 400px;
+    font-size: 20px;
+    line-height: 22px;
   }
 }

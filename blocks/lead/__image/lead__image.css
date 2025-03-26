@@ -4,21 +4,3 @@
   margin: 0 0 8px;
   padding: 0;
 }
-
-@media (max-width: 1279px) {
-  .lead__image {
-    max-height: 580px;
-  }
-}
-
-@media (max-width: 1023px) {
-  .lead__image {
-    max-height: 480px;
-  }
-}
-
-@media (max-width: 767px) {
-  .lead__image {
-     max-height: 200px;
-  }
-}
