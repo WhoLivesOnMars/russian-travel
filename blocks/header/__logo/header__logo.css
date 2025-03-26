@@ -4,6 +4,7 @@
   height: 52px;
   margin: 0;
   padding: 0;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 767px) {
